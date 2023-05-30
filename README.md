@@ -31,4 +31,4 @@ Then attempt remote SSH access to this server again.
 
 ## References
 
-[Liked this answer](https://github.com/google/google-authenticator-libpam/issues/101#issuecomment-557267513) <Solution to resolve SELinux sshd permissions issues - failed to update secret file: Permission denied>
+[Liked this answer](https://github.com/google/google-authenticator-libpam/issues/101#issuecomment-557267513) <Solution to resolve SELinux sshd permissions issues - failed to update secret file: Permission denied> by [jdbarnes-isi](https://github.com/jdbarnes-isi)
