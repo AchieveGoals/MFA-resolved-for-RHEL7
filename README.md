@@ -18,7 +18,7 @@ As recommended in referenced issue response below in Google GA repo issue 101, i
   $ cd
   $ mv .google_authenticator .ssh/
   $ restorecon -Rv .ssh/
-  ... commented about "Relabeled /home/user/.ssh/.google_authenticator"
+  ... you will see comment about "Relabeled /home/user/.ssh/.google_authenticator"
 ```
 
 Alternatively, if GA has not been used as of yet, run GA command following your site's recommended answers, and using your iPhone or Android mobile device with a GA app (or other OTP apps):
